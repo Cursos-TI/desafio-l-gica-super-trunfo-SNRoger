@@ -113,3 +113,4 @@ int main() {
     printf("\nObrigado por jogar Super Trunfo!\n");
     
     return 0;
+}
